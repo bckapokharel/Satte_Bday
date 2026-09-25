@@ -37,7 +37,7 @@ python3 -m http.server 8000
 npx serve .
 ```
 
-Then open **http://localhost:8000** (Python) or **http://localhost:3000** (Node) in your browser.
+Then open https://sachita-hbd.vercel.app/ (Node) in your browser.
 
 To test it on your phone, connect it to the same Wi-Fi and open `http://YOUR-COMPUTER-IP:8000`.
 
