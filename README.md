@@ -24,11 +24,7 @@ sachita-birthday/
 ---
 
 ## ▶️ How to run it
-
-### Option 1: Just open it (easiest)
-Double-click `index.html`. It opens in your browser and works right away.
-
-### Option 2: Run a local server
+Run a local server
 Open a terminal in the project folder and run **one** of these:
 
 ```bash
